@@ -1,0 +1,83 @@
+body {
+  background-color: #b2e0ce;
+  font-family: monospace;
+}
+.barcolor {
+  color: blueviolet;
+}
+.items {
+  margin-top: 75px;
+}
+/* .embed-responsive {
+  margin-top: 15px;
+} */
+
+.navbar {
+  margin-bottom: 35px;
+  position: static;
+}
+
+.view img {
+  margin-top: 20px;
+  padding: 35px;
+}
+.jumbotron {
+  background-color: #9ef4fc;
+}
+
+.navbar-brand {
+  float: left;
+  /* padding: 15px; */
+  text-align: center;
+  width: 103%;
+}
+
+/* .btn-light {
+  background-color: #bbdefb;
+  color: rgb(255, 255, 255) !important;
+} */
+/* .foot {
+  color: #b2e0ce;
+
+  bottom: 0;
+  left: 0;
+  width: 103%;
+  margin-left: -10px;
+} */
+
+.page-footer {
+  color: #b2e0ce;
+  position: bottom;
+  bottom: 0;
+  left: 0;
+  width: 103%;
+  margin-left: -10px;
+}
+footer.page-footer .footer-copyright {
+  background-color: #bbdefb;
+}
+.item1 {
+  padding: 20px;
+}
+.itemshow {
+  max-width: 120%;
+}
+
+.itemlook {
+  margin: 25px;
+}
+
+.btn {
+  margin-left: 71px;
+  background-color: #bbdefb;
+  color: rgb(255, 255, 255);
+  font: bold;
+}
+
+.btn1 {
+  margin-left: 60px;
+}
+
+.push {
+  height: 180px;
+}
